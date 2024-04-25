@@ -23,7 +23,7 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : THIRUMALAI V
+Developed by : ROHAN J
 
 Register Number : 212223040171
 
